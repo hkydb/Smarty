@@ -1,0 +1,25 @@
+{
+  "name": "docs-vitepress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "dev": "vitepress dev --config ./vite.config.ts",
+    "build": "vitepress build --config ./vite.config.ts",
+    "serve": "vitepress serve --config ./vite.config.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitepress": "^0.22.4",
+    "vue": "^3.2.45"
+  },
+  "dependencies": {
+    "smarty-ui-rollup": "workspace:^0.0.5",
+    "vitepress-theme-demoblock": "^1.4.2"
+  }
+}
