@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-<img src="https://github.com/smarty-team/smarty-admin/blob/main/assets/logo.jpeg" style="width:200px;" />
+<img src="https://github.com/hkydb/components-library/master/assets/logo.jpeg" style="width:200px;" />
 </p>
 
 <h1 align="center">Smarty</h1>
@@ -18,7 +18,7 @@ Smarty is a Web3 cross platform high-performance graphics system, which can rend
 
 Smarty<sup>Next</sup> is the new version of Smarty. It is renderer agnostic enabling the same api to render in multiple contexts: webgl2, webgl, and canvas2d.
 
-Manipulate the **sprites** in canvas as you do with the DOM elements.
+Manipulate canvas as you do with the DOM elements.
 
 
 
@@ -37,7 +37,7 @@ Manipulate the **sprites** in canvas as you do with the DOM elements.
 - SSG 风格文档自动化工具
 - seed 项目模板
 
-# 项目组成
+# Archetechure
 
 - [ UI 组件库(演示 Vite 的搭建过程) ](packages/smarty-ui-vite)
 - [ UI 组件库(演示 Rollup 的搭建过程) ](packages/smarty-ui-rollup)
