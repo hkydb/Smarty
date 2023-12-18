@@ -22,7 +22,6 @@ Manipulate canvas as you do with the DOM elements.
 
 
 
-## Features
 - Manipulate the sprites element as you do with the DOM elements.
 - Rendering by **WebGL2** context.
 - Multiple layers.
@@ -31,13 +30,9 @@ Manipulate canvas as you do with the DOM elements.
 - OffscreenCanvas and [Web Worker](https://Smarty.com/#/en/guide/worker).
 - Work with [d3](https://github.com/d3/d3).
 - [Server-side rendering](https://Smarty.com/#/en/guide/platforms).
-- Monorepo 风格 (pnpm workspace)
-- 独立组件库
-- 独立脚手架工具
-- SSG 风格文档自动化工具
-- seed 项目模板
+  
 
-# Archetechure
+## Architecture
 
 - [ UI 组件库(演示 Vite 的搭建过程) ](packages/smarty-ui-vite)
 - [ UI 组件库(演示 Rollup 的搭建过程) ](packages/smarty-ui-rollup)
@@ -90,6 +85,11 @@ Manipulate canvas as you do with the DOM elements.
    ```bash
    npm run dev
    ```
+
+## Recommended VS Code extensions
+
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
 ## Other commands
 
